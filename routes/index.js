@@ -1,6 +1,6 @@
-const myController = require("../controllers");
-const routes = require("express").Router();
+//const myController = require("../controllers");
+//const routes = require("express").Router();
 
-routes.get("/", myController.awesomeFunction);
+//routes.get("/", myController.awesomeFunction);
 
-module.exports = routes;
+//module.exports = routes;
