@@ -1,0 +1,25 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "a repo for my into to node js assignments",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarshSuffers/nodeIntro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MarshSuffers/nodeIntro/issues"
+  },
+  "homepage": "https://github.com/MarshSuffers/nodeIntro#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
