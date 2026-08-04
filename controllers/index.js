@@ -1,5 +1,9 @@
-const awesomeFunction = (req, res) => {
-  res.send("Hello, World!");
+const awesomeFunction = (Req, res) => {
+  res.send("Hello World!");
 };
 
-module.exports = { awesomeFunction };
+const tooeleTech = (Req, res) => {
+  res.send("Tooele Tech is Awesome!");
+};
+
+module.exports = { awesomeFunction, tooeleTech };
